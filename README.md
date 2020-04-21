@@ -1,4 +1,4 @@
-# Credit_Card_Fraud_Classification
+# Credit_Card_Fraud_Detection
 
 ### Histogram
 
